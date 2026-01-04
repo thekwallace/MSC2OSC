@@ -42,4 +42,4 @@ A standalone macOS menu bar application that bridges MIDI Show Control (MSC) com
 
 ## License
 
-Copyright © 2024. All rights reserved.
+Copyright © 2026. All rights reserved.
